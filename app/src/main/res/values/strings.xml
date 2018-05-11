@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Līvō kēļ</string>
+    <string name="lessons">Mācību stundas</string>
+    <string name="dict">Mana vārdnīca</string>
+    <string name="res">Interneta resursi</string>
+    <string name="about">Par aplikāciju</string>
+</resources>
