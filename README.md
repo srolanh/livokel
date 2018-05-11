@@ -1,0 +1,2 @@
+# livokel
+Lībiešu valodas mācībrīks
